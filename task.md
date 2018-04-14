@@ -6,8 +6,8 @@
 |                         | 设计URI                      | 20 | 120 |
 |                         |  |  |         |
 |                         |                              |        |         |
-| 脚手架                  | 搭建项目脚手架               | 20 |         |
-| Store & Product Service | POST /stores                 | 15 |         |
+| 脚手架                  | 搭建项目脚手架               | 20 | 40 |
+| Store & Product Service | POST /stores                 | 15 | 1320 |
 |                         | GET   /stores                | 10 |         |
 |                         | GET   /stores/{id}           | 10 |         |
 |                             | POST /stores/{id}/products | 20 ||
